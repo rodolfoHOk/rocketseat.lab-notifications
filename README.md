@@ -15,6 +15,22 @@
 - class-validator
 - class-transformer
 
+## Boas Práticas
+
+- Um pouco de DDD [Domain Driven Design]:
+  - domínio do negócio
+  - value object
+- Um pouco de SOLID:
+  - inversão de dependências
+  - princípio da responsabilidade única
+- Testes automatizados:
+  - testes unitários
+- Patterns:
+  - in memory database
+  - repository
+  - mapper
+  - factory
+
 ## Guia
 
 - Instalando o Nest Js: npm i -g @nestjs/cli
@@ -25,6 +41,7 @@
 - Abrir o prisma studio para gerenciar o banco de dados: npx prisma studio
 - Documentação Nest para integração com o Prisma: https://docs.nestjs.com/recipes/prisma
 - Documentação Nest para validação: https://docs.nestjs.com/techniques/validation
+- Checar error de typescript após mudanças: npx tsc --noEmit
 
 ## Extensões vs code
 
@@ -33,3 +50,5 @@
 ## Key
 
 - #BACK_END
+- #EVOLUÇÃO
+- #
