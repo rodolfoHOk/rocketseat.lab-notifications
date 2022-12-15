@@ -1,8 +1,8 @@
-# Ignite Lab Node - Notifications Service
+# 🚀 Ignite Lab Node - Notifications Service 🚀
 
 > Projeto criado durante o evento Ignite Lab Node da RocketSeat
 
-## Principais Tecnologias
+## 👨‍💻 Principais Tecnologias 👩‍💻
 
 - Typescript
 - Node Js
@@ -10,12 +10,12 @@
 - Prisma
 - SQLite
 
-### Bibliotecas adicionais
+### 📚 Bibliotecas adicionais 🗃️
 
 - class-validator
 - class-transformer
 
-## Boas Práticas
+## ✨ Boas Práticas 🤩
 
 - Um pouco de DDD [Domain Driven Design]:
   - domínio do negócio
@@ -31,7 +31,7 @@
   - mapper
   - factory
 
-## Guia
+## 📃 Guia 📖
 
 - Instalando o Nest Js: npm i -g @nestjs/cli
 - Iniciando um projeto Nest Js: nest new project-name
@@ -43,12 +43,6 @@
 - Documentação Nest para validação: https://docs.nestjs.com/techniques/validation
 - Checar error de typescript após mudanças: npx tsc --noEmit
 
-## Extensões vs code
+## 🖥️ Extensões vs code 💻
 
 - prisma.prisma-insider
-
-## Key
-
-- #BACK_END
-- #EVOLUÇÃO
-- #
