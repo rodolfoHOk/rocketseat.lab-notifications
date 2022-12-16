@@ -9,11 +9,13 @@
 - Nest Js
 - Prisma
 - SQLite
+- Kafka (upstash.com)
 
 ### 📚 Bibliotecas adicionais 🗃️
 
 - class-validator
 - class-transformer
+- @nestjs/microservices
 
 ## ✨ Boas Práticas 🤩
 
