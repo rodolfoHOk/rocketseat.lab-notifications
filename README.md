@@ -10,6 +10,7 @@
 - Prisma
 - SQLite
 - Kafka (upstash.com)
+- OpenApi (swagger ui)
 
 ### 📚 Bibliotecas adicionais 🗃️
 
