@@ -8,7 +8,7 @@
 - Node Js
 - Nest Js
 - Prisma
-- SQLite
+- SQLite / PostgreSQL
 - Kafka (upstash.com)
 - OpenApi (swagger ui)
 
@@ -33,6 +33,12 @@
   - repository
   - mapper
   - factory
+
+## 🖼️ Imagens do projeto 👀
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/ignite-lab-node-notifications-01.png" alt="Ignite Lab Notification Service 01" width="450"/>
+
+<img src="https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/ignite-lab-node-notifications-02.png" alt="Ignite Lab Notification Service 02" width="450"/>
 
 ## 📃 Guia 📖
 
